@@ -37,9 +37,12 @@
 
 ---
 
-### 🎲 Fun Interactive Fact
-Click the dice to reveal a random fact about me!  
-[![Dice](https://img.shields.io/badge/🎲-Roll%20the%20Dice-blue)](https://github.com/noorfathima0)
+## 🎭 Fun Developer Facts  
+- 🤖 I talk to AI models more than humans.  
+- 🔧 I have spent **more time debugging** than writing new code.  
+- ☕ My productivity is **directly proportional** to the amount of coffee consumed.  
+- 🚀 I love **building full-stack applications** that solve real-world problems.  
+- 🎨 Dark mode? **Always!**  
 
 ---
 
